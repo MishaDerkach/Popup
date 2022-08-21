@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background: #fff url(/popup-icons/wave.svg) no-repeat bottom content-box;
+    background: #fff url(../popup-icons/wave.svg) no-repeat bottom content-box;
 
     font-family: sans-serif;
     font-size: 1em;
